@@ -1,7 +1,7 @@
 {
-    "name": "⛦BrandrdXMusic⛦",
+    "name": "⛦QueenXMusic⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
+    "logo": "https://graph.org/file/1cb36adf83e0407f9961b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @queenallstring_bot on Telegram.",
         "value": "",
         "required": true
       },
